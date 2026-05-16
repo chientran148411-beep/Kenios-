@@ -1,0 +1,13 @@
+{
+  "token": "MTQ5ODY5NzYxODYxODk3ODM3NQ.GmiuHZ.XIm-Oq02NwdZ26tnmGVI9nJl0SLW08IVAfBl3I",
+  "clientId": "1498697618618978375",
+  "guildId": "1498622354585157654",
+  "adminId": "1425188617516744867",
+
+  "bankName": "TP BANK",
+  "bankNumber": "44413438888",
+
+  "sepayApiKey": "P2A78EHTRWDQE0O4PNTZZ3WVAN6A6GPBH57BGLEDXNLUHFCFFBIIGSYEO3WVVQQK",
+
+  "webhookUrl": "https://kenios.onrender.com/webhook/sepay"
+}
